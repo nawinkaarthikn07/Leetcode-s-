@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
