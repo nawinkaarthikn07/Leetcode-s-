@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/2235-add-two-integers) |
 ## Matrix
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
