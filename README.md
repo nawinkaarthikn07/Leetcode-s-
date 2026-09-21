@@ -58,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
