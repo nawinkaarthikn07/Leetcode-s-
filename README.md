@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -60,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/2235-add-two-integers) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
