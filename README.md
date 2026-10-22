@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/2235-add-two-integers) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
