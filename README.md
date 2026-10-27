@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
