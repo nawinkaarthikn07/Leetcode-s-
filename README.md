@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0912-sort-an-array) |
 | [1672-richest-customer-wealth](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,14 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -160,4 +165,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0208-implement-trie-prefix-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
