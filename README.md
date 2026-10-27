@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0056-merge-intervals) |
@@ -213,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
