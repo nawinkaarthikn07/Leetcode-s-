@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/1143-longest-common-subsequence) |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
