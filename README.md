@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
