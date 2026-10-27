@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0049-group-anagrams) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0208-implement-trie-prefix-tree) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0037-sudoku-solver) |
 | [1672-richest-customer-wealth](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0051-n-queens) |
@@ -223,5 +227,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
