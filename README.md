@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0242-valid-anagram) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0198-house-robber) |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
