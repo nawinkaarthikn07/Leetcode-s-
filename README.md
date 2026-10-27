@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -177,4 +178,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0912-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
