@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0238-product-of-array-except-self) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0295-find-median-from-data-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
