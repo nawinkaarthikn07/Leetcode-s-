@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0912-sort-an-array) |
 ## Prefix Sum
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0005-longest-palindromic-substring) |
+| [0295-find-median-from-data-stream](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0295-find-median-from-data-stream) |
 ## Manacher
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0295-find-median-from-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0056-merge-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/nawinkaarthikn07/Leetcode-s-/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
